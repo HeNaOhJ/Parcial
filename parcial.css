@@ -1,0 +1,72 @@
+body{
+	background:url(fnd2.jpg);
+	background-size: 100%;
+}
+.letra{
+	font-family: stencil;
+	color: white;
+}
+.js{
+	position: absolute;
+	top: 2%;
+	left: 10%;
+	height: 5%;
+	background: #0f3057;
+	border-radius:10px;
+	color: white;
+	font-family: 'stencil';
+	text-decoration: none;
+		padding: 5px;
+		border:solid #00587a 4px; 
+	display:all;
+}
+.js:hover{
+	border:solid #16c79a 4px; 
+	display:all;
+}
+.xd{
+	position: absolute;
+	top: 2%;
+	left:37.5% ;
+	width: 20%;
+	height: 5%;
+	background: #0f3057;
+		border-radius:10px;
+		color: white;
+	font-family: 'stencil';
+	padding: 5px;
+	border:solid #008891 4px; 
+	display:all;
+}
+.drive{
+	position: absolute;
+	top: 20%;
+	left: 41%;
+	background: #0f3057;
+		border-radius:10px;
+	border:solid #008891 4px; 
+	display:all;
+}
+.drive:hover{
+	background: black;
+	border:solid #0f3057 4px; 
+}
+.caja1{
+	position: absolute;
+	top: 20%;
+	left: 61%;
+	height: 42%;
+	width: 20%;
+	background: #0f3057;
+	border-radius:10px;
+	border:solid #008891 4px; 
+	font-family: stencil;
+	color: white;
+}
+.caja2{
+	position: absolute;
+	top: 20%;
+	left: 22%;
+	height: 30%;
+	width: 20%;
+}
